@@ -11,17 +11,9 @@ Random Quotes on your lockscreen<br>
 <li>2. Open the main HTML file and add the following line to the code inside the <b>BODY</b> of the file:<br>
 ```html
 <h2>Example of code</h2>
-
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
+<blockquote>
 <script src="script.js" type="text/javascript"></script>
-            </div>
-        </div>
-    </div>
-</pre>
-```</li>
+</blockquote>
+</li>
 <li>3. Configure the margin-top on the script.js file.</li>
 <li>4. DONE IT! :D</li></ol>
