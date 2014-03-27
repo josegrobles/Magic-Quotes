@@ -9,11 +9,6 @@ Random Quotes on your lockscreen<br>
 <ol>
 <li>1. Add "script.js" file to the folder of the cydget.</li>
 <li>2. Open the main HTML file and add the following line to the code inside the <b>BODY</b> of the file:<br>
-```html
-<h2>Example of code</h2>
-<blockquote>
-<script src="script.js" type="text/javascript"></script>
-</blockquote>
-</li>
+<img src="https://www.dropbox.com/s/hxsr992mdkkebhl/Captura%20de%20pantalla%202014-03-27%2015.48.32.png"></li>
 <li>3. Configure the margin-top on the script.js file.</li>
 <li>4. DONE IT! :D</li></ol>
