@@ -1,0 +1,10 @@
+CYTagline = "Magic Quotes";
+CYPlugin = "WebCycriptLockScreen";
+CYVersionFilter = (800);
+
+CYConfiguration = {
+    // these are actually relative URLs: you can specify arbitrary http:// or file:///
+    Homepage = "index.html";
+    Background = "Background.html";
+    Scrollable = No;
+};
